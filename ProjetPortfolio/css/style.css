@@ -456,7 +456,7 @@ font-style: normal;
 @media (min-width: 250px) and (max-width: 1400px) {
   #menu{width: 100%;}
   #contact{width: 88%;}
-  #Fcontact{
+  #fcontact{
       width: 140%;}
       #contact{width: 100%;}
   }
